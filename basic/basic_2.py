@@ -5,6 +5,6 @@
 name = input("Enter the name ")
 age = int(input("Enter your age "))
 
-result = (100-age)+2018+-
+result = (100-age)+2018
 
 print(f"{name} your are become 100 years old in the year of",result)

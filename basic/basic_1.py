@@ -4,7 +4,6 @@
 
 
 
-
 n = str(input("Enter the any number"))
 result = int(n) + int(n*2) + int(n*3)
 print("Your result is ",result)
